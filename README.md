@@ -1,0 +1,2 @@
+# pstest
+myTest for PowerShell
